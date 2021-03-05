@@ -180,8 +180,8 @@ header{
   border: 10px solid black;
   padding: 30px;
   /*Your code here:*/
-  text-align: center;
-  vertical-align: middle;
+  justify-items: center;
+  align-items: center;
   
 
 }
